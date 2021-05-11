@@ -1,0 +1,2 @@
+# myStaticWebsite
+Static web page
